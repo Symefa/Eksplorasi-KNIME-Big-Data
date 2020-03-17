@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Tue Mar 17 23:37:15 ICT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0170-e95b-39c5-00003911c018 
+on database directory memory:D:\Kuliah\Semester 8\BigData\Tugas 2 - Explorasi KNIME Big Data\Eksplorasi KNIME Big Data\DB_1_Exercise with class loader org.knime.bigdata.spark.local.wrapper.LocalSparkWrapperFactory$1@126be075 
+Loaded from file:/C:/Program%20Files/KNIME/plugins/org.knime.bigdata.spark.local_4.1.0.v201909301105/libs/derby-10.12.1.1.jar
+java.vendor=AdoptOpenJdk
+java.runtime.version=1.8.0_202-b08
+user.dir=D:\Kuliah\Semester 8\BigData\Tugas 2 - Explorasi KNIME Big Data\Eksplorasi KNIME Big Data\DB_1_Exercise
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 17 23:37:25 ICT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance e89683a5-0170-e95b-39c5-00003911c018 
+on database directory memory:D:\Kuliah\Semester 8\BigData\Tugas 2 - Explorasi KNIME Big Data\Eksplorasi KNIME Big Data\DB_1_Exercise\12a99e80-f59e-4222-9220-7592c2260f93 with class loader org.knime.bigdata.spark.local.wrapper.LocalSparkWrapperFactory$1@126be075 
+Loaded from file:/C:/Program%20Files/KNIME/plugins/org.knime.bigdata.spark.local_4.1.0.v201909301105/libs/derby-10.12.1.1.jar
+java.vendor=AdoptOpenJdk
+java.runtime.version=1.8.0_202-b08
+user.dir=D:\Kuliah\Semester 8\BigData\Tugas 2 - Explorasi KNIME Big Data\Eksplorasi KNIME Big Data\DB_1_Exercise
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
